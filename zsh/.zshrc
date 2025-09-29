@@ -115,5 +115,6 @@ if [ -d "$ZSH_CUSTOM" ]; then
 fi
 #
 #
-#
+# SSH Agent with keychain
+eval "$(keychain --eval  ssh arch_github_ssh)"
 eval "$(zoxide init zsh)"
