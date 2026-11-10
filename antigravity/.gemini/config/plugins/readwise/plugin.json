@@ -1,0 +1,10 @@
+{
+  "name": "readwise",
+  "displayName": "Readwise",
+  "description": "Connect to your Readwise and Reader libraries to search highlights, triage your inbox, and read full documents.",
+  "suggestedPrompts": [
+    "Search my Readwise highlights for mental models",
+    "Show me the 10 newest items in my Reader inbox",
+    "Summarize my recent reading highlights"
+  ]
+}

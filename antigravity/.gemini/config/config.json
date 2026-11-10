@@ -1,0 +1,31 @@
+{
+  "userSettings": {
+    "autoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_EAGER",
+    "customThemeSeedsDark": {
+      "background": "#282A36",
+      "foregroundOverride": "#F8F8F2",
+      "primary": "#BD93F9"
+    },
+    "customThemeSeedsLight": {
+      "background": "#EAECF0",
+      "foregroundOverride": "#4C4F69",
+      "primary": "#8839EF"
+    },
+    "enableTerminalSandbox": false,
+    "globalPermissionGrants": {
+      "allow": [
+        "mcp(readwise)"
+      ],
+      "deny": [
+        "read_file(.env)"
+      ]
+    },
+    "nonWorkspaceFileAccessPolicy": "AGENT_SETTING_POLICY_ALLOW",
+    "permissionGrantsV2Migrated": true,
+    "permissionPreset": "AGENT_PERMISSION_PRESET_TURBO",
+    "remoteControlEnabled": true,
+    "remoteControlHostname": "lap-9995-lunar-sky",
+    "sandboxEnabledAtV2Migration": false,
+    "themeMode": "THEME_MODE_DARK"
+  }
+}
